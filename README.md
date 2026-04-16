@@ -28,25 +28,6 @@ The project generates a colorful grid of square boxes on a canvas, creating a si
 
 ---
 
-## 📂 Project Structure
-
-```
-project-folder/
-│── index.html
-│── sketch.js
-│── style.css
-```
-
----
-
-## ▶️ How to Run
-
-1. Download or clone this repository
-2. Open the folder in VS Code
-3. Run `index.html` in your browser
-
----
-
 ## 📚 What I Learned
 
 * Basics of p5.js
